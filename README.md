@@ -23,7 +23,7 @@ The goals of this project were to:
 The report should be accessible to a scientifically literate person with no particular expertise in the topic we researched.
 
 ### Report and Feedback
-The final report can be found [here](Final%20Report%20REP3.pdf) and the feedback given can be found [here](Final%20Report%20Feedback%20REP3.pdf)
+The final report can be found [here](MDM1%20REP3.pdf) and the feedback given can be found [here](MDM1%20REP3%20Feedback.pdf)
 
 ### Compiling
 The report can be compiled using `latexmk`.
